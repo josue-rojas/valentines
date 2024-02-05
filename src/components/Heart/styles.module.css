@@ -1,0 +1,10 @@
+.heart {
+  display: inline-block;
+  height: 32px;
+  transition: fill 1000ms;
+  width: 32px;
+}
+
+.heart path {
+  transition: fill 1000ms;
+}
