@@ -40,8 +40,10 @@ function App() {
         {heartsMemo}
       </div>
       <header className="App-header">
-        Happy Valentines!<br></br>
-        I love you!
+        <p className='message'>
+          Happy Valentines!<br></br>
+          I love you! 🤠
+        </p>
       </header>
     </div>
   );
